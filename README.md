@@ -1,7 +1,7 @@
 # PortVulnScan
 A network port and vulnerability scanner.
 
-To use this tool, first download the Port and vulnerability scanner and extract it.
+To use this tool, first download the Port and vulnerability scanners and extract it.
 
 To run the port scanner.
 1. Open linux command line
