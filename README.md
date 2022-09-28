@@ -1,5 +1,6 @@
 # PortVulnScan
 A network port and vulnerability scanner.
+
 To use this tool, first download the Port and vulnerability scanner and extract it.
 
 To run the port scanner.
@@ -21,6 +22,7 @@ To run the vulnerability scanner
 7. Congratulations, you just completed a vulnerability scan.
 
 
-CREDIT
+CREDIT:
+
 This script was built based on the step by step tutorial by Mohamed Ezzat.
 Visit his blog https://mohamedaezzat.github.io/
